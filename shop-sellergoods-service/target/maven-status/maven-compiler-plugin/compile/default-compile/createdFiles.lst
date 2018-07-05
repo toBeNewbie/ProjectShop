@@ -1,0 +1,6 @@
+com\shop\sellergoods\service\impl\BrandServiceImpl.class
+com\shop\sellergoods\service\impl\TypeTemplateServiceImpl.class
+com\shop\sellergoods\service\impl\SpecificationServiceImpl.class
+com\shop\sellergoods\service\impl\SellerServiceImpl.class
+com\shop\sellergoods\service\impl\ItemCatServiceImpl.class
+com\shop\sellergoods\service\impl\GoodsServiceImpl.class
